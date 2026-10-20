@@ -16,4 +16,6 @@ to use:
   https://www.reddit.com/r/daddit/comments/1x9j7a3/my_son_has_gotten_into_paw_patrol_and_its_so_bad.json
 ```
 4. save this as **thread.json** to the same directory as reddit_clean.py
-5. run reddit_clean.py and it will output **thread.md**
+5. run reddit_clean.py and it will output **thread.md** with your full thread.
+
+Note:  have tried everything but cannot seem to get it to get stuff past "show more" when reddit threads get massive.  
